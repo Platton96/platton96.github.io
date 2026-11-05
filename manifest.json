@@ -1,0 +1,35 @@
+{
+    "name": "Кодовые слова — ключ капитана",
+    "short_name": "Ключ капитана",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#171021",
+    "theme_color": "#171021",
+    "description": "Ключ капитана для игры «Кодовые слова». Открывается по QR-коду с планшета.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
